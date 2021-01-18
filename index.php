@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<title>Dotta Burger</title>
+<title>Dotta Corporate</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -9,12 +9,12 @@
 <!-- Navbar (sit on top) -->
 <div class="w3-top">
   <div class="w3-bar w3-white w3-wide w3-padding w3-card">
-    <a href="#home" class="w3-bar-item w3-button"><b>BR</b> Architects</a>
+    <a href="#home" class="w3-bar-item w3-button"><b>BR</b> Arquitetos</a>
     <!-- Float links to the right. Hide them on small screens -->
     <div class="w3-right w3-hide-small">
-      <a href="#projects" class="w3-bar-item w3-button">Projects</a>
-      <a href="#about" class="w3-bar-item w3-button">About</a>
-      <a href="#contact" class="w3-bar-item w3-button">Contact</a>
+      <a href="#projects" class="w3-bar-item w3-button">Projetos</a>
+      <a href="#about" class="w3-bar-item w3-button">Sobre</a>
+      <a href="#contact" class="w3-bar-item w3-button">Contato</a>
     </div>
   </div>
 </div>
@@ -23,7 +23,7 @@
 <header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
   <img class="w3-image" src="https://www.w3schools.com/w3images/architect.jpg" alt="Architecture" width="1500" height="800">
   <div class="w3-display-middle w3-margin-top w3-center">
-    <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding w3-black w3-opacity-min"><b>BR</b></span> <span class="w3-hide-small w3-text-light-grey">Architects</span></h1>
+    <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding w3-black w3-opacity-min"><b>BR</b></span> <span class="w3-hide-small w3-text-light-grey">Arquitetos</span></h1>
   </div>
 </header>
 
@@ -32,13 +32,13 @@
 
   <!-- Project Section -->
   <div class="w3-container w3-padding-32" id="projects">
-    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Projects</h3>
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Projetos</h3>
   </div>
 
   <div class="w3-row-padding">
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Summer House</div>
+        <div class="w3-display-topleft w3-black w3-padding">Casa de Verão</div>
         <img src="https://www.w3schools.com/w3images/house5.jpg" alt="House" style="width:100%">
       </div>
     </div>
@@ -50,7 +50,7 @@
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Renovated</div>
+        <div class="w3-display-topleft w3-black w3-padding">Renovando</div>
         <img src="https://www.w3schools.com/w3images/house3.jpg" alt="House" style="width:100%">
       </div>
     </div>
@@ -155,7 +155,7 @@
 
 <!-- Footer -->
 <footer class="w3-center w3-black w3-padding-16">
-  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-text-green">w3.css</a></p>
+  <p>Powered by <a href="https://dotta-php.keroapp.com" title="Dotta Corporate" target="_blank" class="w3-hover-text-green">dotta.css</a></p>
 </footer>
 
 </body>
